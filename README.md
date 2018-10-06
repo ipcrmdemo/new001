@@ -10,7 +10,7 @@ f
 [mvn]: https://maven.apache.org/ (Maven)
 
 ### Run locally
-
+f
 You can run the service locally using the following from the command:
 
 ```
