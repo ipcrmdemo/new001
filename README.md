@@ -10,7 +10,7 @@ ffdfsdfdsfs
 [mvn]: https://maven.apache.org/ (Maven)
 dsfsff
 ### Run locally
-fdsfsf
+fdsfsff
 You can run the service locally using the following from the command:
 
 ```
