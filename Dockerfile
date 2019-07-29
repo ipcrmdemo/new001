@@ -4,6 +4,7 @@ RUN wget -O /usr/local/bin/dumb-init https://github.com/Yelp/dumb-init/releases/
 chmod 755 /usr/local/bin/dumb-init
 MAINTAINER ipcrm <ipcrm@noreply.com>
 
+
 RUN mkdir -p /opt/app
 
 WORKDIR /opt/app
